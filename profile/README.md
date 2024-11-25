@@ -137,7 +137,7 @@
 | Back-end | Back-end | Back-end | Back-end | Front-end | 
 |:---------:|:---------:|:---------:|:---------:|:---------:|
 | <a href="https://github.com/mxinseo" target="_blank"><img src="https://avatars.githubusercontent.com/u/110973127?v=4" width="140px" alt="경민서 프로필" /></a>|  <a href="https://github.com/Jinyshin" target="_blank"><img src="https://avatars.githubusercontent.com/u/87403267?v=4" width="140px" alt="신진영 프로필" /></a>| <a href="https://github.com/chennielee" target="_blank"><img src="https://avatars.githubusercontent.com/u/126068623?v=4" width="140" alt="이채은 프로필" /></a>|<a href="https://github.com/lhaerim" target="_blank"><img src="https://avatars.githubusercontent.com/u/128566763?v=4" width="140px" alt="이해림 프로필" /></a>|<a href="https://github.com/misung-dev" target="_blank"><img src="https://avatars.githubusercontent.com/u/128569095?v=4" width="140px" alt="류미성 프로필" /></a>|
-| 경민서<br>(소프트웨어학부22)   | 신진영<br>(소프트웨어학부21)  | 이채은<br>(소프트웨어학부22)   | 이해림<br>(소프트웨어학부23)   | 류미성<br>(소프트웨어학부2)   |
+| 경민서<br>(소프트웨어학부22)   | 신진영<br>(소프트웨어학부20)  | 이채은<br>(소프트웨어학부22)   | 이해림<br>(소프트웨어학부23)   | 류미성<br>(소프트웨어학부21)   |
 
 <br />
 
